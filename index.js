@@ -10,3 +10,6 @@ var callback = (element, index, array) => {
 
 
 // Add your changeCompletely() function here:
+var changeCompletely = () => {
+  
+}
