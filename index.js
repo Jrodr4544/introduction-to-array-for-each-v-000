@@ -1,8 +1,6 @@
 // Add your doToElementsInArray() function here:
 var doToElementsInArray = (array, callback) => {
-  array.forEach((element, index, callback) => {
-    
-  });
+  array.forEach(callback);
 }
 
 var callback = (array) => {
