@@ -1,5 +1,5 @@
 // Add your doToElementsInArray() function here:
-var doToElementsInArray = () => {
+var doToElementsInArray = (array, callback) => {
   
 }
 
