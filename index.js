@@ -7,9 +7,7 @@ var callback = (element, index, array) => {
   array[index] = element + " is element # "+index;
 }
 
-
-
 // Add your changeCompletely() function here:
-var changeCompletely = (array) => {
+var changeCompletely = (element, index, array) => {
   
 }
