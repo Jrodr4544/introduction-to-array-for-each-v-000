@@ -4,7 +4,7 @@ var doToElementsInArray = (array, callback) => {
 }
 
 var callback = (element, index, array) => {
-  
+  array[index] = 
 }
 
 
