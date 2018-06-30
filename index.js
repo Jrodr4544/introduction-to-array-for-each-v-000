@@ -2,7 +2,7 @@
 var doToElementsInArray = (array, callback) => {
   array.forEach(element, index, callback) => {
     
-  })
+  });
 }
 
 
