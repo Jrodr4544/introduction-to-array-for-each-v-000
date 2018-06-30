@@ -5,6 +5,10 @@ var doToElementsInArray = (array, callback) => {
   });
 }
 
+var callback = (array) => {
+  
+}
+
 
 
 // Add your changeCompletely() function here:
