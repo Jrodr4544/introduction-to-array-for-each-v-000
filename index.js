@@ -4,10 +4,10 @@ var doToElementsInArray = (array, callback) => {
 }
 
 var callback = (element, index, array) => {
-  array[index] = element + " is element # "+index;
+
 }
 
 // Add your changeCompletely() function here:
 var changeCompletely = (element, index, array) => {
-  
+  array[index] = element + " is element # "+index;  
 }
