@@ -3,7 +3,7 @@ var doToElementsInArray = (array, callback) => {
   array.forEach(callback);
 }
 
-var callback = (array) => {
+var callback = (element, index, array) => {
   
 }
 
